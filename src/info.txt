@@ -1,0 +1,3 @@
+-Root Reducer will combine all the reducers in one file.
+-created one file in reducer folder ie. index.js which is the root reducer.
+-Any components created first sent to the container and import in the App.js
